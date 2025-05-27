@@ -45,7 +45,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 ![Screenshot 2025-05-27 152508](https://github.com/user-attachments/assets/c7c6c07d-b911-4861-8581-83f27553f526)
 Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results.
 
-<h2>In-Demand Skills for Data Analysts</h2>
+<h2>3. In-Demand Skills for Data Analysts</h2>
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
 Here's the breakdown of the most demanded skills for data analysts in 2023
 
