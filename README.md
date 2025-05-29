@@ -13,7 +13,7 @@ Driven by a quest to navigate the data analyst job market more effectively, this
 5. What are the most optimal skills to learn?
 
 <h1>Tools i used</h1>
-1. SQL:Served as the foundation for my investigation, enabling sophisticated database queries to extract valuable market intelligence.
+<br>1. SQL:Served as the foundation for my investigation, enabling sophisticated database queries to extract valuable market intelligence.</br>
 2. PostgreSQL: Selected as the primary database platform, perfectly suited for managing extensive job posting datasets.
 3. VScode: My preferred environment for database administration and SQL query execution.
 4. Git & Github: Critical components for maintaining code versioning and distributing SQL scripts and findings, facilitating teamwork and progress monitoring.
