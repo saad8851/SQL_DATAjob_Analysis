@@ -14,9 +14,9 @@ Driven by a quest to navigate the data analyst job market more effectively, this
 
 <h1>Tools i used</h1>
 <br>1. SQL:Served as the foundation for my investigation, enabling sophisticated database queries to extract valuable market intelligence.</br>
-2. PostgreSQL: Selected as the primary database platform, perfectly suited for managing extensive job posting datasets.
-3. VScode: My preferred environment for database administration and SQL query execution.
-4. Git & Github: Critical components for maintaining code versioning and distributing SQL scripts and findings, facilitating teamwork and progress monitoring.
+<br>2. PostgreSQL: Selected as the primary database platform, perfectly suited for managing extensive job posting datasets.</br>
+<br>3. VScode: My preferred environment for database administration and SQL query execution.</br>
+<br>4. Git & Github: Critical components for maintaining code versioning and distributing SQL scripts and findings, facilitating teamwork and progress monitoring.</br>
 
 <h1>The Analysis</h1>
 <h2>1. Top Paying Data Analyst Jobs</h2>
